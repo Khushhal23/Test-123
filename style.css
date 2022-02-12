@@ -17,8 +17,8 @@ html{
 }
 
 body {
-  background-color: #ff0ace;
-  background: linear-gradient(-150deg,#ff61fc, #4bff33);
+  background-color: #fffc42;
+  background: linear-gradient(-150deg,#ea30ff, #30fff8);
   scroll-behavior: smooth;
   background-size: 150% 150%;
   animation: button 10s ease-in-out infinite;
